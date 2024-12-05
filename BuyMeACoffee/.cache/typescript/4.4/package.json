@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.697"
+  },
+  "devDependencies": {
+    "@types/aes-js": "^3.1.1",
+    "@types/node": "^20.6.0",
+    "@types/object-assign": "^4.0.31",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@types/scheduler": "^0.16.3",
+    "@types/sprintf": "^0.1.0"
+  }
+}
