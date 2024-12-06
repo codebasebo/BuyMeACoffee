@@ -28,7 +28,7 @@ To get started with Buy Me A Coffee, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Buy_Me_A_Coffee.git
+    git clone https://github.com/codebasebo/BuyMeACoffee
     ```
 2. Navigate to the project directory:
     ```bash
